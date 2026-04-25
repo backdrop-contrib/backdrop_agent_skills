@@ -11,3 +11,5 @@ Backdrop in their work.
 
 Please, submit a PR adding a link to the Skills you wish to share. 
 
+* Tim Erickson - https://github.com/stpaultim/claude_skills
+
